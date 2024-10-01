@@ -1,5 +1,4 @@
-# 💫 About Me:
-<br>📚 My name is Kristiyan Dzhurenov.  I am currently studying applied programming in High Technology Vocational High School "A.S Popov" at 📍Sofia, Bulgaria.
+# 💫 About Me: <br>📚 My name is Kristiyan Dzhurenov.  I am currently studying applied programming in High Technology Vocational High School "A.S Popov" at 📍Sofia, Bulgaria.
 
 
 ## 🌐 Socials:
